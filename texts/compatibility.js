@@ -417,3 +417,41 @@ texts.push([
 	"存在一些小问题，导致游戏不可玩或保持在一个无法游玩的性能状态。", // 32
 	"可以从头到尾玩的游戏，具有正常的游戏性能，游戏中没有中断故障。" // 33
 ])
+
+// Español
+texts.push([
+	"Desconocido", // 0
+	"Crashea", // 1
+	"Bugueado", // 2
+	"Lento", // 3
+	"Perfectamente jugable", // 4
+	"Nada", // 5
+	"Ejecutable", // 6
+	"Intro", // 7
+	"Menú", // 8
+	"Jugable -", // 9
+	"Jugable +", // 10
+	"Todo", // 11
+	"Página principal", // 12
+	"Lista de compatibilidad Homebrew", // 13
+	"Etiquetas", // 14
+	"Homebrew que provoca al emulador crashear.", // 15
+	"Homebrew que funciona con bugs o glitches.", // 16
+	"Homebrew que funciona pero con pocos fotogramas.", // 17
+	"Homebrew que son perfectamente jugables.", // 18
+	"Nombre de la entrada", // 19
+	"Estado", // 20
+	"PlayStation y PS Vita son marcas comerciales de Sony Interactive Entertainment Inc.", // 21
+	"El emulador no está relacionado ni avalado por Sony, ni deriva de material confidencial perteneciente a Sony.", // 22
+	"Logo hecho por", // 23
+	"Buscar", // 24
+	"Seleccionar idioma", // 25
+	"Lista de compatibilidad", // 26
+	"Juegos que no ejecutan, no muestran una pantalla negra inicial con un contador de fotogramas.", // 27
+	"Juegos que se pueden ejecutar pero no muestran nada mas que una pantalla negra con un contador de fotogramas.", // 28
+	"Juegos que muestran imagenes en pantalla pero no alcanzan los menús.", // 29
+	"Juegos que funcionan adecuadamente pero no llegan a iniciar una partida.", // 30
+	"Juegos que alcanzan a iniciar pero tienen errores graves que impidén avanzar demasiado.", // 31
+	"Juegos que alcanzan a iniciar y progresar pero tiene glitches que renderizan el juego de forma que no sea jugable o no tenga el rendimiento necesario para jugar.", // 32
+	"Juegos que se pueden jugar desde el principio hasta el final sin glitches que puedan romper el juego." // 33
+])

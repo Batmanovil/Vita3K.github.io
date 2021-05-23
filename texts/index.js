@@ -439,3 +439,42 @@ texts.push([
 	"最新资讯", // 34
 	"我们有一个博客，并且定期发布详细的工作进展报告。来看看有什么新鲜事！" // 35
 ])
+// Español
+texts.push([
+	"Acerca", // 0
+	"Descargas", // 1
+	"Comunidad", // 2
+	"Compatibilidad", // 3
+	"Galería", // 4
+	"Contribuir", // 5
+	"Donar", // 6
+	"El primer emulador funcional de PlayStation Vita del mundo", // 7
+	"Descubre mas", // 8
+	"Sobre Vita3K", // 9
+	"Vita3K es el primer emulador funcional experimental de código abierto de PlayStation Vita del mundo para Windows,Linux y macOS.", // 10
+	"Por favor ten en cuenta que el propósito del emulador no es hacer posible ninguna actividad ilegal", // 11
+	"¡Escoge tu plataforma!", // 12
+	"¡Muy pronto!", // 13
+	"Descargar desde", // 14
+	"¡Habla con nosotros!", // 15
+	"Contacta con los desarrolladores y otros usuarios cuando quieras. Prefeririamos que fuera por nuestro servidor de Discord, ¡Pero la decisión es tuya!", // 16
+	"¡Unirse ahora!", // 17
+	"¡Echa un vistazo a lo que funciona!", // 18
+	"El emulador puede ejecutar algunos  <b>juegos comerciales!</b><br>Echa un vistazo a la <a href=\"/compatibility.html?lang=es\">lista de compatibilidad.<a><br><br>También soporta varios juegos homebrew. Echa un vistazo a la <a href=\"compatibility-homebrew.html?lang=es\">Lista de compatibilidad</a> para mas detalles.", // 19
+	"Homebrew Game Port", // 20
+	"PlayStation y PS Vita son marcas comerciales de Sony Interactive Entertainment Inc.", // 21
+	"El emulador no está relacionado ni avalado por Sony, ni deriva de material confidencial perteneciente a Sony.", // 22
+	"Logo hecho por", // 23
+	"Puedes contribuir al emulador de las siguientes formas:", // 24
+	"Seleccionar idioma", // 25
+	"Actualiza la <a href=\"https://github.com/Vita3K/compatibility/issues\">base de datos de compatibilidad</a>.", // 26 // do this for every lang also line // 19 for every lang
+	"¡Muestranos tu amor!", // 27
+	"Si quieres mostrarnos tu aprecio y incluso ayudar a financiar el desarrollo, el emulador tiene una <a href=\"https://www.patreon.com/Vita3K\">Página de Patreon</a>.", // 28
+	"Apóyanos", // 29
+	"Homebrew Game", // 30
+	"Homebrew Utility", // 31
+	"¡Ayúdanos a mejorar!", // 32
+	"Reporta tus problemas o haz Pull Requests en nuestro <a href=\"https://github.com/Vita3K/Vita3K\">repositorio de Github</a>.", // 33
+	"¿Qué hay de nuevo?", // 34
+	"Tenemos un blog donde publicamos informes detallados de nuestros ultimos progresos regularmente. '¡Enterate de nuestros últimos logros!" // 35
+])
